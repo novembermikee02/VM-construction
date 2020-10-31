@@ -293,7 +293,7 @@
 	/*********************************************************
 				   quick-quote
 	**********************************************************/	
-.quick-quote{padding:30px 0; position: relative; background:url(../images/qoute-pattern.jpg) repeat;}
+.quick-quote{padding:30px 0; position: relative; background-color: gray;}
 .quick-quote h2{color:#fff; margin:0px;  font-size:24px; font-family: 'Oswald', sans-serif; text-transform:uppercase; margin-top:10px; text-shadow: 0 0 1px rgba(0, 0, 0, 0.36);}
 .quick-quote p{color:#FFF; font-size:16px; margin-top:10px;}
 .quick-quote .quote-btn{ text-align:center; margin-top:10px;}
