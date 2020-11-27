@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>SunRise construction & Builder company</title>
+<title>VM construction & Builder company</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="SunRise construction & Builder company">
 <meta name="keywords" content="construction, html, template, responsive, corporate">
@@ -54,7 +54,7 @@
           <!--col start-->
           <div class="col-md-4 col-sm-6">
             <div class="top-left">
-              <p>Welcome to Sunrise construction & Builder</p>
+              <p>Welcome to VM construction & Builder</p>
             </div>
           </div>
           <!--col end--> 
@@ -90,7 +90,8 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/logo-default.png" alt="" title=""> </a> </div>
+              <a href="index.html" class="logo"><h1>VM construction</h1></a>
+              <!-- <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/logo-default.png" alt="" title=""> </a> </div> -->
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
@@ -102,57 +103,14 @@
                 </div>
                 <div class="navbar-collapse collapse clearfix">
                   <ul class="navigation clearfix">
-                    <li class="current dropdown"><a class="hvr-link" href="#">Home</a>
-                      <ul>
-                        <li><a class="hvr-link" href="index.html">Homepage Slider</a></li>
-                        <li><a class="hvr-link" href="index-1.html">Homepage Static</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">About</a>
-                      <ul>
-                        <li><a class="hvr-link" href="about.html">About</a></li>
-                        <li><a class="hvr-link" href="our-team.html">Team</a></li>
-                        <li><a class="hvr-link" href="faq.html">FAQ's</a></li>
-                        <li><a class="hvr-link" href="404.html">404 Page</a></li>
-                        <li><a class="hvr-link" href="testimonial.html">Testimonials</a></li>
-                        <li><a class="hvr-link" href="typoghrapy.html">Typoghrapy</a></li>
-                        <li><a class="hvr-link" href="coming-soon.html">Coming-soon</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">Services</a>
-                      <ul>
-                        <li><a class="hvr-link" href="service.html">Services</a></li>
-                        <li><a class="hvr-link" href="service-two-coloumn.html">Service Two Coloumn</a></li>
-                        <li><a class="hvr-link" href="service-signle.html">Single Service</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">Projects</a>
-                      <ul>
-                        <li><a class="hvr-link" href="projects.html">Project</a></li>
-                        <li><a class="hvr-link" href="projects-three.html">Project Three Column</a></li>
-                        <li><a class="hvr-link" href="projects-four.html">Project Four Column</a></li>
-                        <li><a class="hvr-link" href="projects-single.html">Project Single</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">Shop</a>
-                      <ul>
-                        <li><a class="hvr-link" href="shop.html">Our Shop</a></li>
-                        <li><a class="hvr-link" href="shop-single.html">Product Details</a></li>
-                      </ul>
-                    </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">Blog</a>
-                      <ul>
-                        <li> <a class="hvr-link" href="blog-grid.html"> Blog Grid sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog.html"> Blog List sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog-grid-full-width.html"> Blog full width </a></li>
-                        <li> <a class="hvr-link" href="blog-details.html"> Blog Details with sidebar </a></li>
-                        <li> <a class="hvr-link" href="blog-details-slidebar.html"> Blog Details </a></li>
-                      </ul>
-                    </li>
+                    <li class="current"><a class="hvr-link" href="index.html">Home</a></li>
+                    <li class=""><a class="hvr-link" href="about.html">About</a> </li>
+                    <li class=""><a class="hvr-link" href="service-two-coloumn.html">Services</a></li>
+                    <li class=""><a class="hvr-link" href="projects-three.html">Projects</a></li>
+                    <!-- <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li> -->
                     <li><a class="hvr-link" href="contact.html">Contact</a></li>
                   </ul>
                 </div>
-                <div class="clearfix"></div>
               </nav>
               <!--main-menu end--> 
               
@@ -171,7 +129,8 @@
         <div class="row"> 
           <!--col start-->
           <div class="col-md-5 col-sm-5">
-            <div class="logo"> <a href="#" class="img-responsive"><img class="logo-default" src="images/logo-default.png" alt="" title=""></a> </div>
+            <a href="index.html" class="logo"><h1>VM construction</h1></a>
+            <!-- <div class="logo"> <a href="#" class="img-responsive"><img class="logo-default" src="images/logo-default.png" alt="" title=""></a> </div> -->
           </div>
           <!--col end--> 
           <!--col start-->
@@ -183,53 +142,11 @@
               </div>
               <div class="navbar-collapse collapse clearfix">
                 <ul class="navigation clearfix">
-                  <li class="current dropdown"><a class="hvr-link" href="#">Home</a>
-                    <ul>
-                      <li><a class="hvr-link" href="index.html">Homepage Slider</a></li>
-                      <li><a class="hvr-link" href="index-1.html">Homepage Static</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">About</a>
-                    <ul>
-                      <li><a class="hvr-link" href="about.html">About</a></li>
-                      <li><a class="hvr-link" href="our-team.html">Team</a></li>
-                      <li><a class="hvr-link" href="faq.html">FAQ's</a></li>
-                      <li><a class="hvr-link" href="404.html">404 Page</a></li>
-                      <li><a class="hvr-link" href="testimonial.html">Testimonials</a></li>
-                      <li><a class="hvr-link" href="typoghrapy.html">Typoghrapy</a></li>
-                      <li><a class="hvr-link" href="coming-soon.html">Coming-soon</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">Services</a>
-                    <ul>
-                      <li><a class="hvr-link" href="service.html">Services</a></li>
-                      <li><a class="hvr-link" href="service-two-coloumn.html">Service Two Coloumn</a></li>
-                      <li><a class="hvr-link" href="service-signle.html">Single Service</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">Projects</a>
-                    <ul>
-                      <li><a class="hvr-link" href="projects.html">Project</a></li>
-                      <li><a class="hvr-link" href="projects-three.html">Project Three Column</a></li>
-                      <li><a class="hvr-link" href="projects-four.html">Project Four Column</a></li>
-                      <li><a class="hvr-link" href="projects-single.html">Project Single</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">Shop</a>
-                    <ul>
-                      <li><a class="hvr-link" href="shop.html">Our Shop</a></li>
-                      <li><a class="hvr-link" href="shop-single.html">Product Details</a></li>
-                    </ul>
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">Blog</a>
-                    <ul>
-                      <li> <a class="hvr-link" href="blog-grid.html"> Blog Grid sidebar</a></li>
-                      <li> <a class="hvr-link" href="blog.html"> Blog List sidebar</a></li>
-                      <li> <a class="hvr-link" href="blog-grid-full-width.html"> Blog full width </a></li>
-                      <li> <a class="hvr-link" href="blog-details.html"> Blog Details with sidebar </a></li>
-                      <li> <a class="hvr-link" href="blog-details-slidebar.html"> Blog Details </a></li>
-                    </ul>
-                  </li>
+                  <li class="current"><a class="hvr-link" href="index.html">Home</a></li>
+                  <li class=""><a class="hvr-link" href="about.html">About</a> </li>
+                  <li class=""><a class="hvr-link" href="service-two-coloumn.html">Services</a></li>
+                  <li class=""><a class="hvr-link" href="projects-three.html">Projects</a></li>
+                  <!-- <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li> -->
                   <li><a class="hvr-link" href="contact.html">Contact</a></li>
                 </ul>
               </div>
@@ -372,142 +289,12 @@
     </div>
   </section>
   <!--why_choose_us_sec end-->
-  <!--brand-section start-->
-  <div class="brand-section"> 
-    <!--container start-->
-    <div class="container">
-      <div class="brand-content">
-        <ul class="brand-slider">
-          <li><a href="#">
-            <figure><img src="images/company-logo/1.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/2.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/3.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/4.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/5.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/6.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/7.png" alt="" class="img-responsive"></figure>
-            </a></li>
-          <li><a href="#">
-            <figure><img src="images/company-logo/8.png" alt="" class="img-responsive"></figure>
-            </a></li>
-        </ul>
-      </div>
-    </div>
-    <!--container end--> 
-  </div>
-  <!--brand-sectionn end--> 
-  <!--footer-sec start-->
-<footer class="footer-sec"> 
-    <!--container start-->
-    <div class="container"> 
-      <!--row start-->
-      <div class="row"> 
-        <!--col start-->
-        <div class="col-md-4 col-sm-12">
-          <div class="footer-info">
-            <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="images/footer-logo-default.png" alt=""> </a> </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum, sed posuere eros sapien id quam. </p>
-            <ul class="footer-social">
-              <li><a href="#"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-              <li><a href="#"><i class="fa fa-vimeo-square" aria-hidden="true"></i></a></li>
-            </ul>
-          </div>
-        </div>
-        <!--col end--> 
-        <!--col start-->
-        <div class="col-md-8"> 
-          <!--row start-->
-          <div class="row"> 
-            <!--col start-->
-            <div class="col-md-3 col-sm-6">
-              <div class="footer-info">
-                <h3 class="footer-title">Usefull Links</h3>
-                <ul class="service-link">
-                  <li> <a href="index.html">Home</a> </li>
-                  <li> <a href="about.html">About Us</a> </li>
-                  <li> <a href="service.html">Services</a> </li>
-                  <li> <a href="projects-four.html">Gallery</a> </li>
-                  <li> <a href="blog.html">blog</a> </li>
-                  <li> <a href="faq.html">Faq</a> </li>
-                </ul>
-              </div>
-            </div>
-            <!--col end--> 
-            <!--col start-->
-            <div class="col-md-4 col-sm-6">
-              <div class="footer-info">
-                <h3 class="footer-title">Our Services</h3>
-                <ul class="service-link">
-                  <li> <a href="#">Design & Planing</a> </li>
-                  <li> <a href="#">Garden care</a> </li>
-                  <li> <a href="#">Snow removal</a> </li>
-                  <li> <a href="#">Preparing landscape</a> </li>
-                  <li> <a href="#">Forest planing</a> </li>
-                  <li> <a href="#">Fence grate</a> </li>
-                </ul>
-              </div>
-            </div>
-            <!--col end--> 
-            <!--col start-->
-            <div class="col-md-5 col-sm-6">
-              <div class="footer-info">
-                <h3 class="footer-title">Contact Us</h3>
-                <ul class="footer-adress">
-                  <li><i class="fa fa-map-marker"></i><span>8500 lorem, New Ispum, Dolor amet sit 12301 </span></li>
-                  <li><i class="fa fa-phone"></i><span>Call Us : 0934 343 343</span></li>
-                  <li><i class="fa fa-envelope-o"></i><span>Email : info@your-site.com</span></li>
-                </ul>
-              </div>
-            </div>
-            <!--col end--> 
-          </div>
-          <!--row end--> 
-          
-        </div>
-        <!--col end--> 
-        
-      </div>
-      <!--row end-->
-      <div class="copyright-content"> 
-        <!--row start-->
-        <div class="row"> 
-          <!--col start-->
-          <div class="col-md-6 col-sm-6">
-            <p><a target="_blank" href="https://templateshub.net">Templates Hub</a>.</p>
-          </div>
-          <!--col end--> 
-          <!--col start-->
-          <div class="col-md-6 col-sm-6">
-            <ul class="footer-bottom-menu">
-              <li> <a href="#">Sitemap</a> </li>
-              <li> <a href="#">Terms of Service </a> </li>
-              <li> <a href="#">Privacy Policy</a> </li>
-            </ul>
-          </div>
-          <!--col end--> 
-        </div>
-        <!--row end--> 
-      </div>
-    </div>
-    <!--container end--> 
-  </footer>
-
-  <!--footer-secn end--> 
+  
+<!-- footer start -->
+<?php 
+include("mainInclude/footer.php");
+?>
+<!-- footer End -->
   
   <!--login-modal start-->
   <div class="modal fade bs-example-modal-md-1" tabindex="-1" role="dialog">

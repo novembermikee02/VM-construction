@@ -89,8 +89,8 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <h1 class="logo">VM construction</h1>
-              <!-- <div class="logo"> <a href="index.html"> <img class="logo-default" src="" alt="" title=""> </a> </div> -->
+              <a href="index.html" class="logo"><h1>VM construction</h1></a>
+              <!-- <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/company-logo/vmlogo.png" alt="" title=""> </a> </div> -->
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
@@ -106,7 +106,7 @@
                     <li class=""><a class="hvr-link" href="about.html">About</a> </li>
                     <li class=""><a class="hvr-link" href="service-two-coloumn.html">Services</a></li>
                     <li class=""><a class="hvr-link" href="projects-three.html">Projects</a></li>
-                    <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li>
+                    <!-- <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li> -->
                     <li><a class="hvr-link" href="contact.html">Contact</a></li>
                   </ul>
                 </div>
@@ -129,8 +129,8 @@
         <div class="row"> 
           <!--col start-->
           <div class="col-md-5 col-sm-5">
-            <h1 class="logo">VM construction</h1>
-            <!-- <div class="logo"> <a href="#" class="img-responsive"><img class="logo-default" src="images/logo-default.png" alt="" title=""></a> </div> -->
+            <a href="index.html" class="logo"><h1>VM construction</h1></a>
+            <!-- <div class="logo"> <a href="#" class="img-responsive"><img class="logo-default" src="images/company-logo/vmlogo.png" alt="" title=""></a> </div> -->
           </div>
           <!--col end--> 
           <!--col start-->
@@ -146,7 +146,7 @@
                   <li class=""><a class="hvr-link" href="about.html">About</a> </li>
                   <li class=""><a class="hvr-link" href="service-two-coloumn.html">Services</a></li>
                   <li class=""><a class="hvr-link" href="projects-three.html">Projects</a></li>
-                  <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li>
+                  <!-- <li class=""><a class="hvr-link" href="blog-grid-full-width.html">Blog</a></li> -->
                   <li><a class="hvr-link" href="contact.html">Contact</a></li>
                 </ul>
               </div>
@@ -171,22 +171,22 @@
         <li data-slotamount="7" data-transition="pop" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner.jpg">
           <div class="caption lft large-title tp-resizeme slidertext4" data-x="center" data-y="160" data-speed="600" data-start="1600">Welcome to VM Construction Company</div>
           <div class="caption lft large-title tp-resizeme slidertext1" data-x="center" data-y="200" data-speed="600" data-start="2200">We Build Big Things For Our Peoples</div>
-          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus ex sed eros molestie blandit. Fusce <br/>
-            sem enim, commodo sit amet diam pharetra, aliquet pulvinar purus.</div>
+          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800"><br/>
+            <div>
           <div class="caption lfl large-title tp-resizeme slidertext3" data-x="center" data-y="370" data-speed="600" data-start="3500"> <a href="#" class="main-btn btn-1 btn-1e white_color" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-2">Get Started</a> <a href="contact.html" class="main-btn btn-1 btn-1e white_color">Contact Us</a></div>
         </li>
         <li data-slotamount="7" data-transition="flip" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner-1.jpg">
           <div class="caption lft large-title tp-resizeme slidertext4" data-x="center" data-y="160" data-speed="600" data-start="1600">Welcome to VM Construction Company</div>
           <div class="caption lft large-title tp-resizeme slidertext1" data-x="center" data-y="200" data-speed="600" data-start="2200">We Build Big Things For Our Peoples</div>
-          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus ex sed eros molestie blandit. Fusce <br/>
-            sem enim, commodo sit amet diam pharetra, aliquet pulvinar purus.</div>
+          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800"><br/>
+            <div>
           <div class="caption lfl large-title tp-resizeme slidertext3" data-x="center" data-y="370" data-speed="600" data-start="3500"> <a href="#" class="main-btn btn-1 btn-1e white_color" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-2">Get Started</a> <a href="contact.html" class="main-btn btn-1 btn-1e white_color">Contact Us</a></div>
         </li>
         <li data-slotamount="7" data-transition="slidedown" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner-2.jpg">
           <div class="caption lft large-title tp-resizeme slidertext4" data-x="center" data-y="160" data-speed="600" data-start="1600">Welcome to VM Construction Company</div>
           <div class="caption lft large-title tp-resizeme slidertext1" data-x="center" data-y="200" data-speed="600" data-start="2200">We Build Big Things For Our Peoples</div>
-          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus ex sed eros molestie blandit. Fusce <br/>
-            sem enim, commodo sit amet diam pharetra, aliquet pulvinar purus.</div>
+          <div class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="310" data-speed="600" data-start="2800"><br/>
+            <div>
           <div class="caption lfl large-title tp-resizeme slidertext3" data-x="center" data-y="370" data-speed="600" data-start="3500"> <a href="#" class="main-btn btn-1 btn-1e white_color" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-2">Get Started</a> <a href="contact.html" class="main-btn btn-1 btn-1e white_color">Contact Us</a></div>
         </li>
       </ul>
@@ -211,7 +211,7 @@
   
   <!--about-info start-->
   <section class="about-info">
-  <div class="about-img-pro" style="background-image:url(images/group.jpg)"></div>
+  <!-- <div class="about-img-pro" style="background-image:url(images/group.jpg)"></div> -->
   <div class="container"> 
     <!--row start-->
     <div class="row"> 
@@ -230,7 +230,7 @@
             <li>Sed posuere eros sapien id quam</li>
           </ul>
           <div class="readmore">
-            <button class="main-btn btn-1 btn-1e">Read More</button>
+            <a href="about.html"><button class="main-btn btn-1 btn-1e">Read More</button></a>
           </div>
         </div>
       </div>
@@ -368,98 +368,66 @@
     <!--row end-->
     <div class="portfolio-inner"> 
       <!--row start-->
-      <ul class="row container-masonry  portfolio-posts grid">
+      <!-- <ul class="row container-masonry  portfolio-posts grid"></ul> -->
+      <!--row start-->
+      <div class="row serviceList container-masonry  portfolio-posts grid"> 
         <!--col start-->
-        <li class="col-md-4 col-sm-6 col-xs-12 nf-item grid-sizer branding">
-          <div class="image-hover-effect"> <img src="images/gallery/01.jpg" alt="img-1">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>True running burns more calories</p>
+        <div class="col-md-4 col-sm-6 col-xs-12  nf-item grid-sizer branding">
+          <div class="single-item">
+            <div class="image-hover-effect-2"> <img src="images/gallery/01.jpg" alt="img-1">
+              <div class="caption">
+                <h3>Business Financing</h3>
+                <p>True running burns more calories</p>
+                <!-- <div class="details">
+                  <h3><a href="service-signle.html">Home Builds</a></h3>
+                  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..</p>
+                </div> -->
+                <div class="link-wrap"> <a href="images/gallery/01.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
+              </div>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/01.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
           </div>
-        </li>
+        </div>
         <!--col end--> 
         <!--col start-->
-        <li class="col-md-4 col-sm-6 col-xs-12 nf-item financing promotion">
-          <div class="image-hover-effect-1"> <img src="images/gallery/02.jpg" alt="img-2">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>Check out the most populer sweets</p>
+        <div class="col-md-4 col-sm-6 col-xs-12 nf-item financing promotion">
+          <div class="single-item">
+            <div class="image-hover-effect-2"> <img src="images/gallery/02.jpg" alt="img-2">
+              <div class="caption">
+                <h3>Business Financing</h3>
+                <p>True running burns more calories</p>
+                <!-- <div class="details">
+                  <h3><a href="service-signle.html">Home Builds</a></h3>
+                  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..</p>
+                </div> -->
+                <div class="link-wrap"> <a href="images/gallery/01.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
+              </div>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/02.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
           </div>
-        </li>
+        </div>
         <!--col end--> 
         <!--col start-->
-        <li class="col-md-4 col-sm-6 col-xs-12 nf-item grid-sizer marketing branding promotion">
-          <div class="image-hover-effect-2"> <img src="images/gallery/03.jpg" alt="img-3">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>True running burns more calories</p>
+        <div class="col-md-4 col-sm-6 col-xs-12 nf-item grid-sizer marketing branding promotion">
+          <div class="single-item">
+            <div class="image-hover-effect-2"> <img src="images/gallery/03.jpg" alt="img-3">
+              <div class="caption">
+                <h3>Business Financing</h3>
+                <p>True running burns more calories</p>
+                <!-- <div class="details">
+                  <h3><a href="service-signle.html">Home Builds</a></h3>
+                  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..</p>
+                </div> -->
+                <div class="link-wrap"> <a href="images/gallery/01.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
+              </div>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/03.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
           </div>
-        </li>
+        </div>
         <!--col end--> 
-        <!--col start-->
-        <!-- <li class="col-md-4 col-sm-6 col-xs-12 nf-item branding marketing">
-          <div class="image-hover-effect-3"> <img src="images/gallery/04.jpg" alt="img-4">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>Check out the most populer sweets</p>
-            </div>
-            <div class="link-wrap"> <a href="images/gallery/04.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
-          </div>
-        </li> -->
-        <!--col end--> 
-        <!--col start-->
-        <!-- <li class="col-md-4 col-sm-6 col-xs-12 nf-item financing marketing branding">
-          <div class="image-hover-effect-4"> <img src="images/gallery/05.jpg" alt="img-5">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>True running burns more calories</p>
-            </div>
-            <div class="link-wrap"> <a href="images/gallery/05.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
-          </div>
-        </li> -->
-        <!--col end--> 
-        <!--col start-->
-        <!-- <li class="col-md-4 col-sm-6 col-xs-12 nf-item financing marketing branding">
-          <div class="image-hover-effect-5"> <img src="images/gallery/06.jpg" alt="img-6">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>Check out the most populer sweets</p>
-            </div>
-            <div class="link-wrap"> <a href="images/gallery/06.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
-          </div>
-        </li> -->
-        <!--col end--> 
-        <!--col start-->
-        <!-- <li class="col-md-4 col-sm-6 col-xs-12 nf-item financing marketing branding">
-          <div class="image-hover-effect-6"> <img src="images/gallery/07.jpg" alt="img-7">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>Check out the most populer sweets</p>
-            </div>
-            <div class="link-wrap"> <a href="images/gallery/07.jpg" title="Business Financing" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
-          </div>
-        </li> -->
-        <!--col end--> 
-        <!--col start-->
-        <!-- <li class="col-md-4 col-sm-6 col-xs-12 nf-item financing marketing branding">
-          <div class="serviceWrap"> <img src="images/gallery/08.jpg" alt="img-8">
-            <div class="caption">
-              <h3>Business Financing</h3>
-              <p>Lorem ipsum dolor</p>
-            </div>
-            <div class="link-wrap"> <a href="images/gallery/08.jpg" title="Brand Promotion" class="lightbox-image"><i class="fa fa-search"></i></a> <a href="projects-single.html"><i class="fa fa-link"></i></a> </div>
-          </div>
-        </li> -->
-        <!--col end-->
-      </ul>
-      <!--row end--> 
-    </div>
+      </div>
+      <!--row end-->
+      <div class="readmore text-center">
+        <button class="main-btn btn-1 btn-1e">All Projects</button>
+      </div>
+   </div>
   </div>
   <!--container end--> 
 </section>
@@ -535,14 +503,14 @@
                   </div>
               </div>
               <div class="team-title">
-                  <h5>Martin Smith</h5>
+                  <h5>Vikas Mhetre</h5>
                   <span>founder & ceo</span>
               </div>
           </div>
           <div class="col-md-4 col-sm-4">
               <div class="team-member">
                   <div class="team-img">
-                      <img src="https://image.freepik.com/free-photo/elegant-man-with-thumbs-up_1149-1595.jpg" alt="team member" class="img-responsive">
+                      <img src="images/gallery/01.jpg" alt="team member" class="img-responsive">
                   </div>
                   <div class="team-hover">
                       <div class="desk">
@@ -583,7 +551,6 @@
                   <span>Marketing Manager</span>
               </div>
           </div>
-
       </div>
 
   </div>
