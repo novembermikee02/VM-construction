@@ -102,7 +102,7 @@
 	/*********************************************************
 						Main Header
 	**********************************************************/
-	.main-header{position:relative;	left:0px; top:0px; z-index:1000; width:100%; transition:all 500ms ease; -moz-transition:all 500ms ease; -webkit-transition:all 500ms ease;	-ms-transition:all 500ms ease; -o-transition:all 500ms ease;}
+	.main-header{position:relative;	left:0px; top:0px; z-index:1000;  transition:all 500ms ease; -moz-transition:all 500ms ease; -webkit-transition:all 500ms ease;	-ms-transition:all 500ms ease; -o-transition:all 500ms ease;}
 	.main-header .header-upper{position:relative; background:#ffffff; z-index:5; transition:all 500ms ease; -moz-transition:all 500ms ease; -webkit-transition:all 500ms ease; 	-ms-transition:all 500ms ease; -o-transition:all 500ms ease;}
 	.main-header .header-upper .logo img{position:relative;	display:inline-block; max-width:100%;}
 	.main-header .logo-outer{position:relative;	z-index:25;	padding:18px 0px}
@@ -165,7 +165,7 @@
 .main-header .main-menu .navigation>li.dropdown>a:after{display:inline-block; width:0; height:0; margin-left:.3em; vertical-align:middle; content: ""; border-top:.3em solid;
  border-right:.3em solid transparent; border-left:.3em solid transparent;}
 .fixed-header .sticky-header{z-index:999; opacity:1; visibility:visible; -ms-animation-name:fadeInDown; -moz-animation-name:fadeInDown;	-op-animation-name:fadeInDown; -webkit-animation-name:fadeInDown; animation-name:fadeInDown; -ms-animation-duration:500ms; -moz-animation-duration:500ms; -op-animation-duration:500ms; -webkit-animation-duration:500ms; animation-duration:500ms; -ms-animation-timing-function:linear; -moz-animation-timing-function:linear; -op-animation-timing-function:linear; -webkit-animation-timing-function:linear; animation-timing-function:linear; -ms-animation-iteration-count:1; -moz-animation-iteration-count:1; -op-animation-iteration-count:1; -webkit-animation-iteration-count:1; animation-iteration-count:1;}
-.sticky-header{position:fixed; opacity:0; visibility:hidden; left:0px; top:0px;	width:100%;	padding:0px 0px; background:#283747; z-index:0; transition:all 500ms ease; -moz-transition:all 500ms ease; -webkit-transition:all 500ms ease; -ms-transition:all 500ms ease; -o-transition:all 500ms ease; box-shadow:0 0 1px 1px rgba(0, 0, 0, 0.07);}
+.sticky-header{position:fixed; opacity:0; visibility:hidden; left:0px; top:0px;	width:120%;	padding:0px 0px; background:#283747; z-index:0; transition:all 500ms ease; -moz-transition:all 500ms ease; -webkit-transition:all 500ms ease; -ms-transition:all 500ms ease; -o-transition:all 500ms ease; box-shadow:0 0 1px 1px rgba(0, 0, 0, 0.07);}
 .sticky-header .logo{padding:10px 0px 8px}
 .main-menu .navigation>li:hover>a, .main-menu .navigation>li.current>a, .main-menu .navigation>li.current-menu-item>a{color:#fff; opacity:1;}
 .main-header .sticky-header .main-menu .navigation>li:hover>a, .main-header .sticky-header .main-menu .navigation>li.current>a, .main-header .sticky-header .main-menu .navigation>li.current-menu-item>a{color:#fff; opacity:1; }
@@ -789,7 +789,7 @@ body {
 	/*********************************************
 				 inner-heading
 	*********************************************/
-.inner-heading{background:url(../images/heading-bg.jpg) 0 36% no-repeat; -webkit-background-size:cover; background-size:cover; background-color:#f7f7f7; display:block; position:relative; overflow:hidden; width:100%; padding:70px 0 40px 0; text-align:center;}
+.inner-heading{background:url(../images/sm-bg.jpg) 0 36% no-repeat; -webkit-background-size:cover; background-size:cover; background-color:#f7f7f7; display:block; position:relative; overflow:hidden; width:100%; padding:70px 0 40px 0; text-align:center;}
 	.inner-heading h1 {font-size:36px; font-weight:500; color:#fff; margin:0; font-family:'Oswald', sans-serif; }
 	.xs-breadcumb li{font-size:16px; font-weight:600; color:#FFFFFF;}
 	.xs-breadcumb li a{color:#fcb80b;}
